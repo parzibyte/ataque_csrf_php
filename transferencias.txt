@@ -1,0 +1,4 @@
+Se transfieren 123 desde ingenuo para parzibyte
+Se transfieren 10000 desde ingenuo para parzibyte
+Se transfieren 500 desde nadie para parzibyte
+NO se ha transferido 10000 desde ingenuo para parzibyte porque el token no coincide!
